@@ -1,5 +1,7 @@
 # Advanced calculator
-Predictive LL parser and expression interpreter written in Typescript
+Predictive LL parser and Expression interpreter written in Typescript.
+
+Many things (condition, loop) are not implemented yet.
 
 ## Sample code
 ```
@@ -13,3 +15,4 @@ let dec = 5;
 
 ret plus(hex, dec) + bin;
 ```
+This code returns 24

@@ -4,4 +4,4 @@
  * Copyright (c) storycraft. Licensed under the MIT Licence.
  */
 
-export * as lexer from './src/lexer/mod.ts';
+export * from './src/mod.ts';
